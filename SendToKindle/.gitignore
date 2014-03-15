@@ -1,0 +1,23 @@
+# Build Folders
+bin/
+obj/
+
+# NuGet-related
+packages
+*.nupkg
+
+# User Settings
+*.suo
+*.user
+*.userprefs
+
+# Other
+*.snk
+_ReSharper.*
+*.swp
+*.pidb
+*.cache
+*.dotCover
+*.DotSettings
+PartCover/
+*.PartCover.Settings
